@@ -1,2 +1,2 @@
-# TicTak
+# tictak
 Tiktok spa clone
