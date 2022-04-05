@@ -21,3 +21,5 @@ El proyecto tambien usa [ngrok](https://ngrok.com/) para no tener que subir nues
 Y lo ultimo que nos faltaria hacer es correr nuestro proyecto de react, y para eso podemos usar el siguiente comando:
 
 <pre><code>npm start</code></pre>
+
+### Basado en el curso de [codigofacilito](https://github.com/codigofacilito) - [react-single-page-apps](https://codigofacilito.com/cursos/react-single-page-apps)
